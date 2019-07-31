@@ -286,8 +286,12 @@
     <Compile Include="Assets\Script\ChangeScene01.cs" />
     <Compile Include="Assets\Script\ChangeScene02.cs" />
     <Compile Include="Assets\Script\Escape.cs" />
+    <Compile Include="Assets\Script\Pillar01.cs" />
+    <Compile Include="Assets\Script\Pillar02.cs" />
+    <Compile Include="Assets\Script\Pillar03.cs" />
     <Compile Include="Assets\Script\PlayButton.cs" />
     <Compile Include="Assets\Script\Teleport.cs" />
+    <Compile Include="Assets\Script\TreeController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\BOXOPHOBIC\Skybox Cubemap Extended\Shaders\Skybox Cubemap Extended.shader" />

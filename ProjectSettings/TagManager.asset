@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Door
+  - Pillar01
+  - Pillar02
+  - Pillar03
   layers:
   - Default
   - TransparentFX
